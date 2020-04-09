@@ -8,3 +8,16 @@ let arrAvg = arr => {
   }
   return sum / arr.length;
 };
+
+//3c: maximum of array
+let arrMax = arr => {
+let maximum = arr[0]; //start with first array value
+
+//iterate over array
+  arr.forEach(elem => {
+    if(maximum < elem){
+      maximum = elem; //becomes new maximum
+    }
+    });
+    return maximum;
+};
