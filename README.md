@@ -9,3 +9,5 @@
 - Markdown language for README files
 - Javascript for ES6+features
 - Navigating a terminal and directories
+
+![GitHub Octocat](images/gcat.png)
