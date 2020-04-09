@@ -21,3 +21,13 @@ let maximum = arr[0]; //start with first array value
     });
     return maximum;
 };
+
+//3d: sum even numbers
+let sumEvens = arr => {
+  let sum = 0;
+for(let elem of arr){
+ if (elem % 2 == 0)
+  sum = sum + elem;
+}
+  return sum;
+};
