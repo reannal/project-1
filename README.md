@@ -11,3 +11,5 @@
 - Navigating a terminal and directories
 
 ![GitHub Octocat](images/gcat.png)
+
+https://pages.uoregon.edu/reannal/281/
